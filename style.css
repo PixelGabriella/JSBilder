@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(26, 26, 83);
+}
+h1{
+    color: white;
+}
+.container {
+    height: 830px;
+    text-align: center;
+    width: 830px;
+    margin: 0 auto;
+}
+.första {
+    border-top: 10px solid goldenrod;
+    border-left: 10px solid goldenrod;
+    border-bottom: 5px solid goldenrod;
+    border-right: 5px solid goldenrod;
+    background-color: aliceblue;
+    height: 400px;
+    width: 400px;
+    float: left;
+}
+.andra {
+    border-top: 10px solid goldenrod;
+    border-left: 5px solid goldenrod;
+    border-bottom: 5px solid goldenrod;
+    border-right: 10px solid goldenrod;
+    background-color: aliceblue;
+    height: 400px;
+    width: 400px;
+    float: right;
+}
+.tredje {
+    border-top: 5px solid goldenrod;
+    border-left: 10px solid goldenrod;
+    border-bottom: 10px solid goldenrod;
+    border-right: 5px solid goldenrod;
+    background-color: aliceblue;
+    height: 400px;
+    width: 400px;
+    float: left;
+}
+.fjärde {
+    border-top: 5px solid goldenrod;
+    border-left: 5px solid goldenrod;
+    border-bottom: 10px solid goldenrod;
+    border-right: 10px solid goldenrod;
+    background-color: aliceblue;
+    height: 400px;
+    width: 400px;
+    float: right;
+}
+.nybg{
+    background-color: pink;
+}
+.greenbg{
+    background-color: rgb(17, 84, 17);
+}
